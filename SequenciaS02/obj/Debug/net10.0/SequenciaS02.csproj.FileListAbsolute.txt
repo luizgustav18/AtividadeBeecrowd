@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\SequenciaS02\bin\Debug\net10.0\SequenciaS02.exe
+C:\Users\admin\source\repos\SequenciaS02\bin\Debug\net10.0\SequenciaS02.deps.json
+C:\Users\admin\source\repos\SequenciaS02\bin\Debug\net10.0\SequenciaS02.runtimeconfig.json
+C:\Users\admin\source\repos\SequenciaS02\bin\Debug\net10.0\SequenciaS02.dll
+C:\Users\admin\source\repos\SequenciaS02\bin\Debug\net10.0\SequenciaS02.pdb
+C:\Users\admin\source\repos\SequenciaS02\obj\Debug\net10.0\SequenciaS02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\SequenciaS02\obj\Debug\net10.0\SequenciaS02.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\SequenciaS02\obj\Debug\net10.0\SequenciaS02.AssemblyInfo.cs
+C:\Users\admin\source\repos\SequenciaS02\obj\Debug\net10.0\SequenciaS02.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SequenciaS02\obj\Debug\net10.0\SequenciaS02.dll
+C:\Users\admin\source\repos\SequenciaS02\obj\Debug\net10.0\refint\SequenciaS02.dll
+C:\Users\admin\source\repos\SequenciaS02\obj\Debug\net10.0\SequenciaS02.pdb
+C:\Users\admin\source\repos\SequenciaS02\obj\Debug\net10.0\SequenciaS02.genruntimeconfig.cache
+C:\Users\admin\source\repos\SequenciaS02\obj\Debug\net10.0\ref\SequenciaS02.dll

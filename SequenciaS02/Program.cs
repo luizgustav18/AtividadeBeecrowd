@@ -1,0 +1,21 @@
+﻿using System;
+
+class Program
+{
+    static void Main()
+    {
+        double S = 0.0;
+        int numerador = 1;
+        int denominador = 1;
+
+        for (int i = 0; i < 20; i++)
+        {
+            S += (double)numerador / denominador;
+
+            numerador += 2;
+            denominador *= 2;
+        }
+
+        Console.WriteLine(S.ToString("F2"));
+    }
+}
