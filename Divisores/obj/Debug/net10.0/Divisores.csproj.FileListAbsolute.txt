@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Divisores\bin\Debug\net10.0\Divisores.exe
+C:\Users\admin\source\repos\Divisores\bin\Debug\net10.0\Divisores.deps.json
+C:\Users\admin\source\repos\Divisores\bin\Debug\net10.0\Divisores.runtimeconfig.json
+C:\Users\admin\source\repos\Divisores\bin\Debug\net10.0\Divisores.dll
+C:\Users\admin\source\repos\Divisores\bin\Debug\net10.0\Divisores.pdb
+C:\Users\admin\source\repos\Divisores\obj\Debug\net10.0\Divisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Divisores\obj\Debug\net10.0\Divisores.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Divisores\obj\Debug\net10.0\Divisores.AssemblyInfo.cs
+C:\Users\admin\source\repos\Divisores\obj\Debug\net10.0\Divisores.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Divisores\obj\Debug\net10.0\Divisores.dll
+C:\Users\admin\source\repos\Divisores\obj\Debug\net10.0\refint\Divisores.dll
+C:\Users\admin\source\repos\Divisores\obj\Debug\net10.0\Divisores.pdb
+C:\Users\admin\source\repos\Divisores\obj\Debug\net10.0\Divisores.genruntimeconfig.cache
+C:\Users\admin\source\repos\Divisores\obj\Debug\net10.0\ref\Divisores.dll

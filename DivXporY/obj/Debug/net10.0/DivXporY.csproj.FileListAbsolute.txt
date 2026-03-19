@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\DivXporY\bin\Debug\net10.0\DivXporY.exe
+C:\Users\admin\source\repos\DivXporY\bin\Debug\net10.0\DivXporY.deps.json
+C:\Users\admin\source\repos\DivXporY\bin\Debug\net10.0\DivXporY.runtimeconfig.json
+C:\Users\admin\source\repos\DivXporY\bin\Debug\net10.0\DivXporY.dll
+C:\Users\admin\source\repos\DivXporY\bin\Debug\net10.0\DivXporY.pdb
+C:\Users\admin\source\repos\DivXporY\obj\Debug\net10.0\DivXporY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\DivXporY\obj\Debug\net10.0\DivXporY.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\DivXporY\obj\Debug\net10.0\DivXporY.AssemblyInfo.cs
+C:\Users\admin\source\repos\DivXporY\obj\Debug\net10.0\DivXporY.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\DivXporY\obj\Debug\net10.0\DivXporY.dll
+C:\Users\admin\source\repos\DivXporY\obj\Debug\net10.0\refint\DivXporY.dll
+C:\Users\admin\source\repos\DivXporY\obj\Debug\net10.0\DivXporY.pdb
+C:\Users\admin\source\repos\DivXporY\obj\Debug\net10.0\DivXporY.genruntimeconfig.cache
+C:\Users\admin\source\repos\DivXporY\obj\Debug\net10.0\ref\DivXporY.dll
