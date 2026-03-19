@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Experiencias\bin\Debug\net10.0\Experiencias.exe
+C:\Users\admin\source\repos\Experiencias\bin\Debug\net10.0\Experiencias.deps.json
+C:\Users\admin\source\repos\Experiencias\bin\Debug\net10.0\Experiencias.runtimeconfig.json
+C:\Users\admin\source\repos\Experiencias\bin\Debug\net10.0\Experiencias.dll
+C:\Users\admin\source\repos\Experiencias\bin\Debug\net10.0\Experiencias.pdb
+C:\Users\admin\source\repos\Experiencias\obj\Debug\net10.0\Experiencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Experiencias\obj\Debug\net10.0\Experiencias.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Experiencias\obj\Debug\net10.0\Experiencias.AssemblyInfo.cs
+C:\Users\admin\source\repos\Experiencias\obj\Debug\net10.0\Experiencias.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Experiencias\obj\Debug\net10.0\Experiencias.dll
+C:\Users\admin\source\repos\Experiencias\obj\Debug\net10.0\refint\Experiencias.dll
+C:\Users\admin\source\repos\Experiencias\obj\Debug\net10.0\Experiencias.pdb
+C:\Users\admin\source\repos\Experiencias\obj\Debug\net10.0\Experiencias.genruntimeconfig.cache
+C:\Users\admin\source\repos\Experiencias\obj\Debug\net10.0\ref\Experiencias.dll
