@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\MaiorePosicao\bin\Debug\net10.0\MaiorePosicao.exe
+C:\Users\admin\source\repos\MaiorePosicao\bin\Debug\net10.0\MaiorePosicao.deps.json
+C:\Users\admin\source\repos\MaiorePosicao\bin\Debug\net10.0\MaiorePosicao.runtimeconfig.json
+C:\Users\admin\source\repos\MaiorePosicao\bin\Debug\net10.0\MaiorePosicao.dll
+C:\Users\admin\source\repos\MaiorePosicao\bin\Debug\net10.0\MaiorePosicao.pdb
+C:\Users\admin\source\repos\MaiorePosicao\obj\Debug\net10.0\MaiorePosicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\MaiorePosicao\obj\Debug\net10.0\MaiorePosicao.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\MaiorePosicao\obj\Debug\net10.0\MaiorePosicao.AssemblyInfo.cs
+C:\Users\admin\source\repos\MaiorePosicao\obj\Debug\net10.0\MaiorePosicao.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MaiorePosicao\obj\Debug\net10.0\MaiorePosicao.dll
+C:\Users\admin\source\repos\MaiorePosicao\obj\Debug\net10.0\refint\MaiorePosicao.dll
+C:\Users\admin\source\repos\MaiorePosicao\obj\Debug\net10.0\MaiorePosicao.pdb
+C:\Users\admin\source\repos\MaiorePosicao\obj\Debug\net10.0\MaiorePosicao.genruntimeconfig.cache
+C:\Users\admin\source\repos\MaiorePosicao\obj\Debug\net10.0\ref\MaiorePosicao.dll

@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Multiplosde13\bin\Debug\net10.0\Multiplosde13.exe
+C:\Users\admin\source\repos\Multiplosde13\bin\Debug\net10.0\Multiplosde13.deps.json
+C:\Users\admin\source\repos\Multiplosde13\bin\Debug\net10.0\Multiplosde13.runtimeconfig.json
+C:\Users\admin\source\repos\Multiplosde13\bin\Debug\net10.0\Multiplosde13.dll
+C:\Users\admin\source\repos\Multiplosde13\bin\Debug\net10.0\Multiplosde13.pdb
+C:\Users\admin\source\repos\Multiplosde13\obj\Debug\net10.0\Multiplosde13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Multiplosde13\obj\Debug\net10.0\Multiplosde13.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Multiplosde13\obj\Debug\net10.0\Multiplosde13.AssemblyInfo.cs
+C:\Users\admin\source\repos\Multiplosde13\obj\Debug\net10.0\Multiplosde13.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Multiplosde13\obj\Debug\net10.0\Multiplosde13.dll
+C:\Users\admin\source\repos\Multiplosde13\obj\Debug\net10.0\refint\Multiplosde13.dll
+C:\Users\admin\source\repos\Multiplosde13\obj\Debug\net10.0\Multiplosde13.pdb
+C:\Users\admin\source\repos\Multiplosde13\obj\Debug\net10.0\Multiplosde13.genruntimeconfig.cache
+C:\Users\admin\source\repos\Multiplosde13\obj\Debug\net10.0\ref\Multiplosde13.dll
