@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Atividadebeec03\obj\Debug\net10.0\Atividadebeec03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Atividadebeec03\obj\Debug\net10.0\Atividadebeec03.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Atividadebeec03\obj\Debug\net10.0\Atividadebeec03.AssemblyInfo.cs
+C:\Users\admin\source\repos\Atividadebeec03\obj\Debug\net10.0\Atividadebeec03.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Atividadebeec03\bin\Debug\net10.0\Atividadebeec03.exe
+C:\Users\admin\source\repos\Atividadebeec03\bin\Debug\net10.0\Atividadebeec03.deps.json
+C:\Users\admin\source\repos\Atividadebeec03\bin\Debug\net10.0\Atividadebeec03.runtimeconfig.json
+C:\Users\admin\source\repos\Atividadebeec03\bin\Debug\net10.0\Atividadebeec03.dll
+C:\Users\admin\source\repos\Atividadebeec03\bin\Debug\net10.0\Atividadebeec03.pdb
+C:\Users\admin\source\repos\Atividadebeec03\obj\Debug\net10.0\Atividadebeec03.dll
+C:\Users\admin\source\repos\Atividadebeec03\obj\Debug\net10.0\refint\Atividadebeec03.dll
+C:\Users\admin\source\repos\Atividadebeec03\obj\Debug\net10.0\Atividadebeec03.pdb
+C:\Users\admin\source\repos\Atividadebeec03\obj\Debug\net10.0\Atividadebeec03.genruntimeconfig.cache
+C:\Users\admin\source\repos\Atividadebeec03\obj\Debug\net10.0\ref\Atividadebeec03.dll
