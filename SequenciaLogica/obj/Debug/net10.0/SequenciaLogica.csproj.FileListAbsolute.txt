@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\SequenciaLogica\bin\Debug\net10.0\SequenciaLogica.exe
+C:\Users\admin\source\repos\SequenciaLogica\bin\Debug\net10.0\SequenciaLogica.deps.json
+C:\Users\admin\source\repos\SequenciaLogica\bin\Debug\net10.0\SequenciaLogica.runtimeconfig.json
+C:\Users\admin\source\repos\SequenciaLogica\bin\Debug\net10.0\SequenciaLogica.dll
+C:\Users\admin\source\repos\SequenciaLogica\bin\Debug\net10.0\SequenciaLogica.pdb
+C:\Users\admin\source\repos\SequenciaLogica\obj\Debug\net10.0\SequenciaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\SequenciaLogica\obj\Debug\net10.0\SequenciaLogica.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\SequenciaLogica\obj\Debug\net10.0\SequenciaLogica.AssemblyInfo.cs
+C:\Users\admin\source\repos\SequenciaLogica\obj\Debug\net10.0\SequenciaLogica.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SequenciaLogica\obj\Debug\net10.0\SequenciaLogica.dll
+C:\Users\admin\source\repos\SequenciaLogica\obj\Debug\net10.0\refint\SequenciaLogica.dll
+C:\Users\admin\source\repos\SequenciaLogica\obj\Debug\net10.0\SequenciaLogica.pdb
+C:\Users\admin\source\repos\SequenciaLogica\obj\Debug\net10.0\SequenciaLogica.genruntimeconfig.cache
+C:\Users\admin\source\repos\SequenciaLogica\obj\Debug\net10.0\ref\SequenciaLogica.dll

@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\SequenciadeIeJ\bin\Debug\net10.0\SequenciadeIeJ.exe
+C:\Users\admin\source\repos\SequenciadeIeJ\bin\Debug\net10.0\SequenciadeIeJ.deps.json
+C:\Users\admin\source\repos\SequenciadeIeJ\bin\Debug\net10.0\SequenciadeIeJ.runtimeconfig.json
+C:\Users\admin\source\repos\SequenciadeIeJ\bin\Debug\net10.0\SequenciadeIeJ.dll
+C:\Users\admin\source\repos\SequenciadeIeJ\bin\Debug\net10.0\SequenciadeIeJ.pdb
+C:\Users\admin\source\repos\SequenciadeIeJ\obj\Debug\net10.0\SequenciadeIeJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\SequenciadeIeJ\obj\Debug\net10.0\SequenciadeIeJ.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\SequenciadeIeJ\obj\Debug\net10.0\SequenciadeIeJ.AssemblyInfo.cs
+C:\Users\admin\source\repos\SequenciadeIeJ\obj\Debug\net10.0\SequenciadeIeJ.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SequenciadeIeJ\obj\Debug\net10.0\SequenciadeIeJ.dll
+C:\Users\admin\source\repos\SequenciadeIeJ\obj\Debug\net10.0\refint\SequenciadeIeJ.dll
+C:\Users\admin\source\repos\SequenciadeIeJ\obj\Debug\net10.0\SequenciadeIeJ.pdb
+C:\Users\admin\source\repos\SequenciadeIeJ\obj\Debug\net10.0\SequenciadeIeJ.genruntimeconfig.cache
+C:\Users\admin\source\repos\SequenciadeIeJ\obj\Debug\net10.0\ref\SequenciadeIeJ.dll
