@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Atividadebeec05\bin\Debug\net10.0\Atividadebeec05.exe
+C:\Users\admin\source\repos\Atividadebeec05\bin\Debug\net10.0\Atividadebeec05.deps.json
+C:\Users\admin\source\repos\Atividadebeec05\bin\Debug\net10.0\Atividadebeec05.runtimeconfig.json
+C:\Users\admin\source\repos\Atividadebeec05\bin\Debug\net10.0\Atividadebeec05.dll
+C:\Users\admin\source\repos\Atividadebeec05\bin\Debug\net10.0\Atividadebeec05.pdb
+C:\Users\admin\source\repos\Atividadebeec05\obj\Debug\net10.0\Atividadebeec05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Atividadebeec05\obj\Debug\net10.0\Atividadebeec05.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Atividadebeec05\obj\Debug\net10.0\Atividadebeec05.AssemblyInfo.cs
+C:\Users\admin\source\repos\Atividadebeec05\obj\Debug\net10.0\Atividadebeec05.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Atividadebeec05\obj\Debug\net10.0\Atividadebeec05.dll
+C:\Users\admin\source\repos\Atividadebeec05\obj\Debug\net10.0\refint\Atividadebeec05.dll
+C:\Users\admin\source\repos\Atividadebeec05\obj\Debug\net10.0\Atividadebeec05.pdb
+C:\Users\admin\source\repos\Atividadebeec05\obj\Debug\net10.0\Atividadebeec05.genruntimeconfig.cache
+C:\Users\admin\source\repos\Atividadebeec05\obj\Debug\net10.0\ref\Atividadebeec05.dll

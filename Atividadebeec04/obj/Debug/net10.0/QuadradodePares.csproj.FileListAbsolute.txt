@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Atividadebeec04\bin\Debug\net10.0\QuadradodePares.exe
+C:\Users\admin\source\repos\Atividadebeec04\bin\Debug\net10.0\QuadradodePares.deps.json
+C:\Users\admin\source\repos\Atividadebeec04\bin\Debug\net10.0\QuadradodePares.runtimeconfig.json
+C:\Users\admin\source\repos\Atividadebeec04\bin\Debug\net10.0\QuadradodePares.dll
+C:\Users\admin\source\repos\Atividadebeec04\bin\Debug\net10.0\QuadradodePares.pdb
+C:\Users\admin\source\repos\Atividadebeec04\obj\Debug\net10.0\QuadradodePares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Atividadebeec04\obj\Debug\net10.0\QuadradodePares.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Atividadebeec04\obj\Debug\net10.0\QuadradodePares.AssemblyInfo.cs
+C:\Users\admin\source\repos\Atividadebeec04\obj\Debug\net10.0\QuadradodePares.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Atividadebeec04\obj\Debug\net10.0\QuadradodePares.dll
+C:\Users\admin\source\repos\Atividadebeec04\obj\Debug\net10.0\refint\QuadradodePares.dll
+C:\Users\admin\source\repos\Atividadebeec04\obj\Debug\net10.0\QuadradodePares.pdb
+C:\Users\admin\source\repos\Atividadebeec04\obj\Debug\net10.0\QuadradodePares.genruntimeconfig.cache
+C:\Users\admin\source\repos\Atividadebeec04\obj\Debug\net10.0\ref\QuadradodePares.dll
