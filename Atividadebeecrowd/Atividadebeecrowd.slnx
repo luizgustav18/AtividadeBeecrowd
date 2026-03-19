@@ -1,0 +1,23 @@
+<Solution>
+  <Project Path="../Atividadebeec02/SomadeImpares.csproj" Id="03a7cc1b-3781-4e98-aa10-390ff239eaf8" />
+  <Project Path="../Atividadebeec03/Intervalo2.csproj" Id="81e85c33-f53f-4b79-8322-579758a486f4" />
+  <Project Path="../Atividadebeec04/QuadradodePares.csproj" Id="e8abd56d-37df-4b05-870c-47b0f09e05eb" />
+  <Project Path="../Atividadebeec05/ParouImpar.csproj" Id="8c903db6-2e82-4b85-b45e-6ba22268c9c4" />
+  <Project Path="../Atividadebeec06/Resto2.csproj" Id="c2c2d21c-1fd1-48a9-8c81-79dd2b77e575" />
+  <Project Path="../Atividadesbeec07/MedidasPond.csproj" Id="66384d49-c4bc-4f78-8b0f-5d3f0eff5900" />
+  <Project Path="../Divisores/Divisores.csproj" Id="f85b07c3-db86-46f7-81bf-2434f52caf13" />
+  <Project Path="../DivXporY/DivXporY.csproj" Id="cd758e10-9c60-45c4-8c46-a17ce1f80bff" />
+  <Project Path="../Experiencias/Experiencias.csproj" Id="c5625685-8794-4d3b-b164-40b37c5eb3e1" />
+  <Project Path="../Fatorial/Fatorial.csproj" Id="560e8b17-3824-4bf9-b5ef-4155fcdc952c" />
+  <Project Path="../Fibbonati/Fibbonati.csproj" Id="4d906c59-2e3f-4a83-aa35-64c10c21851f" />
+  <Project Path="../ListadeIeJ02/ListadeIeJ02.csproj" Id="0d9af770-8e59-4117-84cd-492105125c79" />
+  <Project Path="../MaiorePosicao/MaiorePosicao.csproj" Id="57678230-e1d9-49c8-841d-ffd029749b70" />
+  <Project Path="../Multiplosde13/Multiplosde13.csproj" Id="6989e920-47f1-4b16-9672-fc14340b1898" />
+  <Project Path="../Pum/Pum.csproj" Id="e628c891-9409-41ce-9c6d-4a48bbf837aa" />
+  <Project Path="../QuadradoeCubo/QuadradoeCubo.csproj" Id="572e6055-eff1-4233-a213-674581be2284" />
+  <Project Path="../SequenciadeIeJ/SequenciadeIeJ.csproj" Id="2f0250d6-d30a-4107-b703-dd90a6b7d3bf" />
+  <Project Path="../SequenciaLogica/SequenciaLogica.csproj" Id="89104a0b-b21d-4a83-8fa9-87e4b5388ada" />
+  <Project Path="../SequenciaS/SequenciaS.csproj" Id="b55274ce-dda9-4bbd-a3c9-679f8e8191ea" />
+  <Project Path="../SequenciaS02/SequenciaS02.csproj" Id="e8685d14-9133-4731-a8d9-152d83c119a3" />
+  <Project Path="NumerosImpares.csproj" />
+</Solution>
