@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Fibbonati\bin\Debug\net10.0\Fibbonati.exe
+C:\Users\admin\source\repos\Fibbonati\bin\Debug\net10.0\Fibbonati.deps.json
+C:\Users\admin\source\repos\Fibbonati\bin\Debug\net10.0\Fibbonati.runtimeconfig.json
+C:\Users\admin\source\repos\Fibbonati\bin\Debug\net10.0\Fibbonati.dll
+C:\Users\admin\source\repos\Fibbonati\bin\Debug\net10.0\Fibbonati.pdb
+C:\Users\admin\source\repos\Fibbonati\obj\Debug\net10.0\Fibbonati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Fibbonati\obj\Debug\net10.0\Fibbonati.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Fibbonati\obj\Debug\net10.0\Fibbonati.AssemblyInfo.cs
+C:\Users\admin\source\repos\Fibbonati\obj\Debug\net10.0\Fibbonati.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Fibbonati\obj\Debug\net10.0\Fibbonati.dll
+C:\Users\admin\source\repos\Fibbonati\obj\Debug\net10.0\refint\Fibbonati.dll
+C:\Users\admin\source\repos\Fibbonati\obj\Debug\net10.0\Fibbonati.pdb
+C:\Users\admin\source\repos\Fibbonati\obj\Debug\net10.0\Fibbonati.genruntimeconfig.cache
+C:\Users\admin\source\repos\Fibbonati\obj\Debug\net10.0\ref\Fibbonati.dll
